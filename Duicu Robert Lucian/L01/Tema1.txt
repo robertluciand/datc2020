@@ -7,5 +7,7 @@
 -Drive pentru stocare; 
 -Docs, Sheets, Slides, Keep, Forms si Sites pentru productivitate si colaborare.
 
-  In mod personal am utilizat Gmail pentru email; Calendar pentru marcarea datelor;Drive pentru spatiu de stocare sau ca o modalitate de a transmite fisiere intr-un mod simplu si eficient; Doc, Sheets, Slides si Keep le-am utilizat pentru a accesa si modifica documente fara necesita downloadarea unor aplicatii separate.
-  Tot ansamblul de aplicatii sunt gandite pentru un mediu modern de lucru, avand fiabilitatea si simplitatea necesara pentru proiectele in echipa care necesita o multitudine de unelte pentru a fi realizate.
+  In mod personal am utilizat Gmail pentru email; Calendar pentru marcarea datelor;Drive pentru spatiu de stocare sau ca o modalitate de a transmite fisiere 
+  intr-un mod simplu si eficient; Doc, Sheets, Slides si Keep le-am utilizat pentru a accesa si modifica documente fara necesita downloadarea unor aplicatii separate.
+  Tot ansamblul de aplicatii sunt gandite pentru un mediu modern de lucru, avand fiabilitatea si simplitatea necesara pentru proiectele in echipa care necesita o 
+  multitudine de unelte pentru a fi realizate.
